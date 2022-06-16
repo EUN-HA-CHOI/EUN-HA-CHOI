@@ -28,7 +28,8 @@
 <a href="https://www.instagram.com/eunhavely/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
 
-<div align="center">
+<h3 align="center"> My Stats </h3>
+<div align="center"> 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUN-HA-CHOI&show_icons=true&theme=default)
 
