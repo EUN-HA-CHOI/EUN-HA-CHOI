@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=EunhaChoi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=ffffff&height=250&section=header&text=EunhaChoi&fontSize=70&fontColor=f5bac7)
+
 <!--Here are some ideas to get you started:
 
 
