@@ -18,10 +18,7 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </div>
 
-<h3 align="center"> Me </h3>
-<div align="center"> 
-<a href="https://www.instagram.com/eunhavely/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</div>
+
 
 <h3 align="center"> My Stats </h3>
 <div align="center"> 
